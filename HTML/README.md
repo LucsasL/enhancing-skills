@@ -1,4 +1,4 @@
-# HTML
+# HTML *(HyperText Markup Language)*
 
 A full dive into the markup language that builds the internet, semantically and 
 
